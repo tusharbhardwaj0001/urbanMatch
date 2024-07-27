@@ -4,7 +4,9 @@
 The Marriage Matchmaking App is a simple backend application designed to help users find potential matches based on their profile information. The app allows users to create, read, update, and delete profiles with details such as name, age, gender, email, city, and interests.
 
 ## What is Provided?
-This project provides a basic skeleton for a FastAPI-based backend application. The provided code includes:
+This project provides a basic skeleton for a FastAPI-based backend application. The project can be found at this github repo: https://github.com/abhishek-UM/UrbanMatch-PythonTask/tree/master
+
+The provided code includes:
 
 ### Basic Project Structure:
 
